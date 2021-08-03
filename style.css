@@ -50,6 +50,7 @@ button{
 }
 
 h1 {
+    font-family: fantasy;
     font-size: 80px;
     margin: 10px 0 30px;
     line-height: 80px;
